@@ -1,6 +1,6 @@
-# Ghost
+# zzyy
 
-微影，一款纯粹的在线视频App，基于Material Design + MVP + Dagger2 + RxJava + Retrofit + Realm + Glide 
+壮壮影音，一款纯粹的在线视频App，基于Material Design + MVP + Dagger2 + RxJava + Retrofit + Realm + Glide 
 
 ## 更改日志
 #### 2017.9.15
