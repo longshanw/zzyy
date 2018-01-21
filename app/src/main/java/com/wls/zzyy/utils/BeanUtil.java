@@ -6,7 +6,7 @@ import com.wls.zzyy.model.bean.VideoType;
 
 /**
  * Description: BeanUtil
- * Creator: yxc
+ * Creator: wls
  * date: 2017/9/21 14:39
  */
 public class BeanUtil {

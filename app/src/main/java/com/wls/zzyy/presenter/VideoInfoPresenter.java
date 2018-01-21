@@ -25,7 +25,7 @@ import rx.functions.Action1;
 
 /**
  * Description: VideoInfoPresenter
- * Creator: yxc
+ * Creator: wls
  * date: 2017/9/21 15:35
  */
 public class VideoInfoPresenter extends RxPresenter<VideoInfoContract.View> implements VideoInfoContract.Presenter {

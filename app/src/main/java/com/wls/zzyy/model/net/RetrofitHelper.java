@@ -24,7 +24,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 /**
  * Description: RetrofitHelper1
- * Creator: yxc
+ * Creator: wls
  * date: 2017/9/21 10:03
  */
 public class RetrofitHelper {

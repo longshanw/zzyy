@@ -11,7 +11,7 @@ import android.widget.TextView;
 
 /**
  * Description: ViewAttributeUtil
- * Creator: yxc
+ * Creator: wls
  * date: 2017/10/26 11:25
  */
 public class ViewAttributeUtil {

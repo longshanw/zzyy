@@ -29,7 +29,7 @@ import butterknife.BindView;
 
 /**
  * Description: ClassificationFragment
- * Creator: yxc
+ * Creator: wls
  * date: 2017/9/21 17:45
  */
 public class ClassificationFragment extends BaseMvpFragment<ClassificationPresenter> implements ClassificationContract.View, SwipeRefreshLayout.OnRefreshListener {

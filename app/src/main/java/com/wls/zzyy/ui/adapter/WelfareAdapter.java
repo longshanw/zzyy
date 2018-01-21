@@ -12,7 +12,7 @@ import com.wls.zzyy.model.bean.GankItemBean;
 
 /**
  * Description: 福利
- * Creator: yxc
+ * Creator: wls
  * date: 2017/10/24 14:16
  */
 public class WelfareAdapter extends RecyclerArrayAdapter<GankItemBean> {

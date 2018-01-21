@@ -14,7 +14,7 @@ import com.wls.zzyy.model.bean.VideoInfo;
 
 /**
  * Description: 专题
- * Creator: yxc
+ * Creator: wls
  * date: 2017/9/30 11:07
  */
 public class ClassificationAdapter extends RecyclerArrayAdapter<VideoInfo> {

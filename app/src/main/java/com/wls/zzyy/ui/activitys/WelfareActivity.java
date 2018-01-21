@@ -25,7 +25,7 @@ import butterknife.OnClick;
 
 /**
  * Description: 福利墙
- * Creator: yxc
+ * Creator: wls
  * date: 2017/9/6 14:57
  */
 public class WelfareActivity extends SwipeBackActivity<WelfarePresenter> implements WelfareContract.View, SwipeRefreshLayout.OnRefreshListener, RecyclerArrayAdapter.OnLoadMoreListener {

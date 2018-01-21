@@ -11,7 +11,7 @@ import java.math.BigDecimal;
 
 /**
  * Description:
- * Creator: yxc
+ * Creator: wls
  * date: $date $time
  */
 public class EventUtil {

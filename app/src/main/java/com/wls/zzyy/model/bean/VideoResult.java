@@ -4,7 +4,7 @@ import com.google.gson.annotations.SerializedName;
 
 /**
  * Description: VideoResult
- * Creator: yxc
+ * Creator: wls
  * date: $date $time
  */
 public class VideoResult {

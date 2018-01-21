@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * Description: VideoType
- * Creator: yxc
+ * Creator: wls
  * date: $date $time
  */
 public class VideoType {

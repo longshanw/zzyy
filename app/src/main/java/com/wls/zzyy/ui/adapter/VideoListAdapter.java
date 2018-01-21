@@ -14,7 +14,7 @@ import com.wls.zzyy.model.bean.VideoType;
 
 /**
  * Description: 影片列表
- * Creator: yxc
+ * Creator: wls
  * date: 2017/9/30 11:10
  */
 public class VideoListAdapter extends RecyclerArrayAdapter<VideoType> {

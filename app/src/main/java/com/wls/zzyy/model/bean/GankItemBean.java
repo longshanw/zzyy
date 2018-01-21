@@ -2,7 +2,7 @@ package com.wls.zzyy.model.bean;
 
 /**
  * Description: GankItemBean
- * Creator: yxc
+ * Creator: wls
  * date: 2017/10/24 13:53
  */
 

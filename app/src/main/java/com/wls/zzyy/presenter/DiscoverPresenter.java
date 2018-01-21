@@ -17,7 +17,7 @@ import rx.functions.Action1;
 
 /**
  * Description: DiscoverPresenter
- * Creator: yxc
+ * Creator: wls
  * date: 2017/9/21 17:55
  */
 public class DiscoverPresenter extends RxPresenter<DiscoverContract.View> implements DiscoverContract.Presenter {

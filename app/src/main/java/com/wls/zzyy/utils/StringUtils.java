@@ -12,7 +12,7 @@ import java.util.Random;
 
 /**
  * Description:
- * Creator: yxc
+ * Creator: wls
  * date: $date $time
  */
 public class StringUtils {

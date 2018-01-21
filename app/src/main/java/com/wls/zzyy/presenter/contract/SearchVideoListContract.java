@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  * Description: VideoListContract
- * Creator: yxc
+ * Creator: wls
  * date: 2017/9/16 14:59
  */
 public interface SearchVideoListContract {

@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  * Description:
- * Creator: yxc
+ * Creator: wls
  * date: $date $time
  */
 public class VideoRes {

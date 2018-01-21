@@ -12,7 +12,7 @@ import rx.Observable;
 
 /**
  * Description: VideoApis
- * Creator: yxc
+ * Creator: wls
  * date: 2017/9/8 14:05
  */
 

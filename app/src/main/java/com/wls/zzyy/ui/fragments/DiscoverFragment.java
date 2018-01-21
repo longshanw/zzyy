@@ -32,7 +32,7 @@ import butterknife.OnClick;
 
 /**
  * Description: 发现页
- * Creator: yxc
+ * Creator: wls
  * date: $date $time
  */
 public class DiscoverFragment extends BaseMvpFragment<DiscoverPresenter> implements DiscoverContract.View {

@@ -15,7 +15,7 @@ import java.util.List;
 
 /**
  * Description: BannerAdapter
- * Creator: yxc
+ * Creator: wls
  * date: 2017/9/30 11:09
  */
 public class BannerAdapter extends StaticPagerAdapter {

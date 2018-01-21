@@ -45,7 +45,7 @@ import butterknife.ButterKnife;
 
 /**
  * Description: 精选
- * Creator: yxc
+ * Creator: wls
  * date: $date $time
  */
 public class RecommendFragment extends BaseMvpFragment<RecommendPresenter> implements RecommendContract.View, SwipeRefreshLayout.OnRefreshListener, View.OnClickListener {

@@ -16,7 +16,7 @@ import javax.inject.Inject;
 
 /**
  * Description: CollectionPresenter
- * Creator: yxc
+ * Creator: wls
  * date: 2017/9/29 12:15
  */
 public class CollectionPresenter extends RxPresenter<CollectionContract.View> implements CollectionContract.Presenter {

@@ -11,7 +11,7 @@ import javax.inject.Inject;
 
 /**
  * Description: MVP Activity基类
- * Creator: yxc
+ * Creator: wls
  * date: 17/9/14
  */
 

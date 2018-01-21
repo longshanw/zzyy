@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  * Description: WelfareContract
- * Creator: yxc
+ * Creator: wls
  * date: 2017/10/24 12:34
  */
 public interface WelfareContract {

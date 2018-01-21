@@ -13,7 +13,7 @@ import javax.inject.Inject;
 
 /**
  * Description: CollectionPresenter
- * Creator: yxc
+ * Creator: wls
  * date: 2017/9/29 12:19
  */
 public class MinePresenter extends RxPresenter<MineContract.View> implements MineContract.Presenter {

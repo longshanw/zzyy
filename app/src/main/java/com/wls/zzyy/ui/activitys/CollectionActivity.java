@@ -29,7 +29,7 @@ import butterknife.BindView;
 import butterknife.OnClick;
 /**
  * Description: 收藏
- * Creator: yxc
+ * Creator: wls
  * date: 2017/9/6 14:57
  */
 public class CollectionActivity extends SwipeBackActivity<CollectionPresenter> implements CollectionContract.View {

@@ -33,7 +33,7 @@ import fm.jiecao.jcvideoplayer_lib.JCVideoPlayerStandard;
 
 /**
  * Description: 影片详情
- * Creator: yxc
+ * Creator: wls
  * date: 2017/9/6 14:57
  */
 public class VideoInfoActivity extends SwipeBackActivity<VideoInfoPresenter> implements VideoInfoContract.View {

@@ -27,7 +27,7 @@ import butterknife.OnClick;
 
 /**
  * Description: 设置
- * Creator: yxc
+ * Creator: wls
  * date: 2017/9/6 14:57
  */
 public class SettingActivity extends SwipeBackActivity {

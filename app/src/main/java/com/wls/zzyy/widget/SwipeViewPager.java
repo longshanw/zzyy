@@ -9,7 +9,7 @@ import android.view.ViewConfiguration;
 
 /**
  * Description:
- * Creator: yxc
+ * Creator: wls
  * date: $date $time
  */
 public class SwipeViewPager extends ViewPager {

@@ -5,7 +5,7 @@ import android.util.DisplayMetrics;
 
 /**
  * Description: ScreenUtil
- * Creator: yxc
+ * Creator: wls
  * date: $date $time
  */
 public class ScreenUtil {

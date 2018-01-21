@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /**
  * Description: 影片详情
- * Creator: yxc
+ * Creator: wls
  * date: 2017/9/29 9:39
  */
 public class VideoInfo implements Serializable {

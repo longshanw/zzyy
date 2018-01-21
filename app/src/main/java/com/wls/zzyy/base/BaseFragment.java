@@ -30,7 +30,7 @@ import me.yokeyword.fragmentation.SupportFragment;
 
 /**
  * Description: BaseFragment
- * Creator: yxc
+ * Creator: wls
  * date: 2017/9/7 11:40
  */
 public abstract class BaseFragment extends SupportFragment {

@@ -11,7 +11,7 @@ import javax.inject.Inject;
 
 /**
  * Description: ClassificationPresenter
- * Creator: yxc
+ * Creator: wls
  * date: 2017/9/21 17:55
  */
 public class ClassificationPresenter extends RxPresenter<ClassificationContract.View> implements ClassificationContract.Presenter {

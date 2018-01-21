@@ -40,7 +40,7 @@ import static com.wls.zzyy.R.id.recyclerView;
 
 /**
  * Description: 首页搜索
- * Creator: yxc
+ * Creator: wls
  * date: 2017/9/6 14:57
  */
 public class SearchActivity extends SwipeBackActivity<SearchVideoListPresenter> implements SearchVideoListContract.View, SwipeRefreshLayout.OnRefreshListener, RecyclerArrayAdapter.OnLoadMoreListener {

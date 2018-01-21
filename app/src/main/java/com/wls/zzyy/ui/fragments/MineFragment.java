@@ -43,7 +43,7 @@ import static com.wls.zzyy.R.id.recyclerView;
 
 /**
  * Description:
- * Creator: yxc
+ * Creator: wls
  * date: $date $time
  */
 public class MineFragment extends BaseMvpFragment<MinePresenter> implements MineContract.View {
