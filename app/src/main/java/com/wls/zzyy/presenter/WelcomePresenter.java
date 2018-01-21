@@ -17,7 +17,7 @@ import rx.functions.Action1;
 /**
  * Description: WelcomePresenter
  * Creator: yxc
- * date: 2016/9/22 13:17
+ * date: 2017/9/22 13:17
  */
 public class WelcomePresenter extends RxPresenter<WelcomeContract.View> implements WelcomeContract.Presenter {
 

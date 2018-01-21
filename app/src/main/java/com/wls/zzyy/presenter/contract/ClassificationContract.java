@@ -8,7 +8,7 @@ import com.wls.zzyy.model.bean.VideoRes;
 /**
  * Description: ClassificationContract
  * Creator: yxc
- * date: 2016/9/21 17:55
+ * date: 2017/9/21 17:55
  */
 public interface ClassificationContract {
 

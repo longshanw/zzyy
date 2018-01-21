@@ -3,7 +3,7 @@ package com.wls.zzyy.model.bean;
 /**
  * Description: GankItemBean
  * Creator: yxc
- * date: 2016/10/24 13:53
+ * date: 2017/10/24 13:53
  */
 
 public class GankItemBean {
@@ -11,9 +11,9 @@ public class GankItemBean {
 
     /**
      * _id : 57b64b6d421aa93a804bea26
-     * createdAt : 2016-08-19T07:57:33.576Z
+     * createdAt : 2017-08-19T07:57:33.576Z
      * desc : 8-19
-     * publishedAt : 2016-08-19T11:26:30.163Z
+     * publishedAt : 2017-08-19T11:26:30.163Z
      * source : chrome
      * type : 福利
      * url : http://ww4.sinaimg.cn/large/610dc034jw1f6yq5xrdofj20u00u0aby.jpg

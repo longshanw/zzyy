@@ -10,7 +10,7 @@ import com.bumptech.glide.load.engine.DiskCacheStrategy;
 /**
  * Description: ImageLoader
  * Creator: yxc
- * date: 2016/9/21 9:53 
+ * date: 2017/9/21 9:53
  */
 public class ImageLoader {
 

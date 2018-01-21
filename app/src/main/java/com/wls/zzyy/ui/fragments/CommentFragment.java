@@ -30,7 +30,7 @@ import butterknife.BindView;
 /**
  * Description: 详情--评论
  * Creator: yxc
- * date: 2016/9/9 9:54
+ * date: 2017/9/9 9:54
  */
 public class CommentFragment extends BaseMvpFragment<CommentPresenter> implements CommentContract.View, SwipeRefreshLayout.OnRefreshListener, RecyclerArrayAdapter.OnLoadMoreListener {
 

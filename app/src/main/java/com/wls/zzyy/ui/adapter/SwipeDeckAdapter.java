@@ -23,7 +23,7 @@ import butterknife.ButterKnife;
 /**
  * Description: SwipeDeckAdapter
  * Creator: yxc
- * date: 2016/9/30 11:10
+ * date: 2017/9/30 11:10
  */
 public class SwipeDeckAdapter extends BaseAdapter {
 

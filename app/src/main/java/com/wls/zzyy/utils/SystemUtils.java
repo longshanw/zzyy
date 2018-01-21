@@ -48,7 +48,7 @@ import java.util.Locale;
 /**
  * Description: 系统工具类
  * Creator: yxc
- * date: 2016/9/7 10:16
+ * date: 2017/9/7 10:16
  */
 public class SystemUtils {
 

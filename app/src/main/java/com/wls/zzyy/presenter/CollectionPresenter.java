@@ -17,7 +17,7 @@ import javax.inject.Inject;
 /**
  * Description: CollectionPresenter
  * Creator: yxc
- * date: 2016/9/29 12:15
+ * date: 2017/9/29 12:15
  */
 public class CollectionPresenter extends RxPresenter<CollectionContract.View> implements CollectionContract.Presenter {
     int type = 0;//收藏:0; 历史:1:

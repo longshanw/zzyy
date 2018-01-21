@@ -12,7 +12,7 @@ import javax.inject.Inject;
 /**
  * Description: ClassificationPresenter
  * Creator: yxc
- * date: 2016/9/21 17:55
+ * date: 2017/9/21 17:55
  */
 public class ClassificationPresenter extends RxPresenter<ClassificationContract.View> implements ClassificationContract.Presenter {
     int page = 0;

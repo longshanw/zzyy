@@ -18,7 +18,7 @@ import rx.functions.Action1;
 /**
  * Description: DiscoverPresenter
  * Creator: yxc
- * date: 2016/9/21 17:55
+ * date: 2017/9/21 17:55
  */
 public class DiscoverPresenter extends RxPresenter<DiscoverContract.View> implements DiscoverContract.Presenter {
     final String catalogId = "402834815584e463015584e539330016";

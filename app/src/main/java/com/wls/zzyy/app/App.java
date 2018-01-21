@@ -24,7 +24,7 @@ import io.realm.rx.RealmObservableFactory;
  *
  * @version: 2.3.1
  * @author: caopeng
- * @time: 2016/9/13 10:53
+ * @time: 2017/9/13 10:53
  ******************************************/
 public class App extends Application {
     private static App instance;

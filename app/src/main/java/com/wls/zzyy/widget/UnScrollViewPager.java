@@ -9,7 +9,7 @@ import android.widget.Scroller;
 import com.wls.zzyy.utils.KL;
 
 /**
- * Created by Xuanhao on 2016/3/8.
+ * Created by wls on 2017/3/8.
  */
 public class UnScrollViewPager extends ViewPager {
 

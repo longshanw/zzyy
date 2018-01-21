@@ -3,7 +3,7 @@ package com.wls.zzyy.model.bean;
 import io.realm.RealmObject;
 
 /**
- * Created by zjg on 2016/10/11.
+ * Created by zjg on 2017/10/11.
  */
 
 public class SearchKey extends RealmObject {

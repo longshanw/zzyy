@@ -9,7 +9,7 @@ import android.widget.TextView;
 
 
 /**
- * Created by chengli on 15/6/8.
+ * Created by wls on 17/6/8.
  */
 public class ColorTextView extends TextView implements ColorUiInterface {
 

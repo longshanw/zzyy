@@ -27,7 +27,7 @@ import butterknife.ButterKnife;
 /**
  * Description: 详情——简介
  * Creator: yxc
- * date: 2016/9/9 9:54
+ * date: 2017/9/9 9:54
  */
 public class VideoIntroFragment extends BaseFragment {
 

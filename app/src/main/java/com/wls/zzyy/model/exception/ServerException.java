@@ -1,7 +1,7 @@
 package com.wls.zzyy.model.exception;
 
 /**
- * Created by 12262 on 2016/5/31.
+ * Created by 12262 on 2017/5/31.
  */
 public class ServerException extends RuntimeException {
     private int code;

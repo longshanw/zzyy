@@ -1,4 +1,4 @@
-// (c)2016 Flipboard Inc, All Rights Reserved.
+// (c)2017 Flipboard Inc, All Rights Reserved.
 
 package com.wls.zzyy.model.http.api;
 
@@ -13,7 +13,7 @@ import rx.Observable;
 /**
  * Description: VideoApis
  * Creator: yxc
- * date: 2016/9/8 14:05
+ * date: 2017/9/8 14:05
  */
 
 public interface VideoApis {

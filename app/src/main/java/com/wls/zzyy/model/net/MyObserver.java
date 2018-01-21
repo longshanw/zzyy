@@ -6,7 +6,7 @@ import rx.Subscriber;
 import com.wls.zzyy.model.exception.ApiException;
 
 /**
- * Created by 12262 on 2016/5/30.
+ * Created by 12262 on 2017/5/30.
  */
 public abstract class MyObserver<T> extends Subscriber<T> {
 

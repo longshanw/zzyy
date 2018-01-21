@@ -14,7 +14,7 @@ import com.wls.zzyy.model.bean.VideoInfo;
 /**
  * Description: 推荐
  * Creator: yxc
- * date: 2016/9/30 11:10
+ * date: 2017/9/30 11:10
  */
 public class RecommendAdapter extends RecyclerArrayAdapter<VideoInfo> {
 

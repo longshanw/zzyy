@@ -7,7 +7,7 @@ import android.view.View;
 
 
 /**
- * Created by chengli on 15/6/8.
+ * Created by wls on 17/6/8.
  */
 public class ColorView extends View implements ColorUiInterface {
 

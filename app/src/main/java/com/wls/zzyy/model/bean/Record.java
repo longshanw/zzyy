@@ -7,7 +7,7 @@ import io.realm.RealmObject;
 /**
  * Description: 播放记录
  * Creator: yxc
- * date: 2016/9/23 11:30
+ * date: 2017/9/23 11:30
  */
 public class Record extends RealmObject implements Serializable {
     public String title;

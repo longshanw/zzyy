@@ -9,7 +9,7 @@ import android.view.ViewGroup;
  * 
  * @Description 自动换行TextView
  * @Version v1.0
- * @author Xuanhao
+ * @author wls
  */
 public class WordWrapView extends ViewGroup {
 	private static final int PADDING_HOR = 10;// 水平方向padding

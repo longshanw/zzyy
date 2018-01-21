@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * Description: CollectionContract
  * Creator: yxc
- * date: 2016/9/29 12:06
+ * date: 2017/9/29 12:06
  */
 public interface CollectionContract {
 

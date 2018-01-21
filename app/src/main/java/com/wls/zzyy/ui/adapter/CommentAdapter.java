@@ -15,7 +15,7 @@ import com.wls.zzyy.model.bean.VideoType;
 /**
  * Description: 评论列表
  * Creator: yxc
- * date: 2016/9/30 11:10
+ * date: 2017/9/30 11:10
  */
 public class CommentAdapter extends RecyclerArrayAdapter<VideoType> {
 

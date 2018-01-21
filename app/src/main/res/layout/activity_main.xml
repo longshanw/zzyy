@@ -35,9 +35,9 @@
                 android:ellipsize="end"
                 android:maxLines="1"
                 android:padding="10dp"
-                android:text="微影，微一下"
+                android:text="聚集，你所想的影视、音乐、图片、头条..."
                 android:textColor="@android:color/white"
-                android:textSize="16sp" />
+                android:textSize="14sp" />
 
         </LinearLayout>
 

@@ -7,7 +7,7 @@ import java.io.Serializable;
 /**
  * Description:应用信息Model
  * Creator: yxc
- * date: 2016/9/7 10:12
+ * date: 2017/9/7 10:12
  */
 public class AppInfo implements Serializable {
 

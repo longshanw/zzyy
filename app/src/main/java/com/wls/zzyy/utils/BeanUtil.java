@@ -7,7 +7,7 @@ import com.wls.zzyy.model.bean.VideoType;
 /**
  * Description: BeanUtil
  * Creator: yxc
- * date: 2016/9/21 14:39
+ * date: 2017/9/21 14:39
  */
 public class BeanUtil {
     public static VideoInfo VideoType2VideoInfo(VideoType videoType, VideoInfo videoInfo) {

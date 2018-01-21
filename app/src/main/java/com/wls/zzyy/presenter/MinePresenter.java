@@ -14,7 +14,7 @@ import javax.inject.Inject;
 /**
  * Description: CollectionPresenter
  * Creator: yxc
- * date: 2016/9/29 12:19
+ * date: 2017/9/29 12:19
  */
 public class MinePresenter extends RxPresenter<MineContract.View> implements MineContract.Presenter {
     public static final int maxSize = 30;
