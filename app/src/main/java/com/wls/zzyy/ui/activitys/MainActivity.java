@@ -46,6 +46,7 @@ import butterknife.OnClick;
  * Description: 主页
  * Creator: wls
  * date: 2017/9/6 14:57
+ * ColorChooserDialog.ColorCallback：主题选择
  */
 public class MainActivity extends BaseActivity implements RadioGroup.OnCheckedChangeListener, ColorChooserDialog.ColorCallback {
 
@@ -83,10 +84,10 @@ public class MainActivity extends BaseActivity implements RadioGroup.OnCheckedCh
     //内容
     @BindView(R.id.vp_content)
     UnScrollViewPager vpContent;
-    //
+    //带3D感的侧滑菜单
     @BindView(R.id.resideLayout)
     ResideLayout mResideLayout;
-    //
+    //导航栏tab切换
     ContentPagerAdapter mPagerAdapter;
 
     @Override

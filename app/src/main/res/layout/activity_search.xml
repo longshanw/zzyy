@@ -139,7 +139,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="100dp"
                         android:layout_centerVertical="true"
-                        android:background="@mipmap/default_200" />
+                        android:background="@mipmap/shjcycs" />
                 </RelativeLayout>
 
                 <TextView
@@ -149,7 +149,7 @@
                     android:layout_marginTop="3dp"
                     android:gravity="center"
                     android:singleLine="true"
-                    android:text="sdfasdfasdfasf" />
+                    android:text="山海经之赤影传说" />
             </LinearLayout>
 
             <LinearLayout
@@ -171,7 +171,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="100dp"
                         android:layout_centerVertical="true"
-                        android:background="@mipmap/default_200"
+                        android:background="@mipmap/lzc"
                         android:scaleType="fitXY" />
                 </RelativeLayout>
 
@@ -183,7 +183,7 @@
                     android:gravity="center"
                     android:scaleType="fitXY"
                     android:singleLine="true"
-                    android:text="sdfasdfasdfasf" />
+                    android:text="龙珠超" />
             </LinearLayout>
         </LinearLayout>
     </RelativeLayout>
