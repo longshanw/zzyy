@@ -44,7 +44,7 @@
 
 ## 效果
 
-[demo下载地址](https://www.pgyer.com/bAQp)
+[demo下载地址]()
 
 <a href="art/01.png"><img src="art/01.png" width="40%"/></a> <a href="art/02.png"><img src="art/02.png" width="40%"/></a>
 
@@ -125,39 +125,4 @@
 * [GanK](https://github.com/dongjunkun/GanK)
 * 美女福利图片接口来[自干货集中营](http://gank.io/api)
 
-## About us
 
-We are developer, We are brothers, We are a group.
-
-caopeng：A adults
-
-[csdn](http://blog.csdn.net/jiankeufo)
-
-[Github](https://github.com/caopeng000)
-
-wls：A kid
-
-[简书](http://www.jianshu.com/u/2c351e91afa7)
-
-[Github](https://github.com/stevenMieMie)
-
-JJZhang：Like Mom
-
-[csdn](http://blog.sina.com.cn/jiqiren2231856598)
-
-[Github](https://github.com/2231856598)
-
-If you want to make friends with us, You can focus on our blog.
-
-
-## License
-
-Copyright (c) 2017 codeestX
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
- 个人练习使用，api和素材均来源网络，如有侵权请告知，立马删除。如果因他人下载使用产生纠纷均与本人无关。
